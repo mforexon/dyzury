@@ -1,0 +1,9 @@
+[	
+	{
+		"id_nauczyciel": 1,
+		"id_przedmiot": 1,
+		"godzina_od": "11:15",
+		"godzna_do": "11:55",
+		"nr_dnia": 1
+	}
+]
